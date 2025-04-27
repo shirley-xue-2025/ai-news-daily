@@ -1,0 +1,5 @@
+# OpenAI API Configuration
+# Replace the placeholder with your actual API key
+# IMPORTANT: Do not commit this file with your actual API key
+
+OPENAI_API_KEY=your-api-key-goes-here
