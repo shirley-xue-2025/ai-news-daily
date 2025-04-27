@@ -103,3 +103,4 @@ export default function Home() {
     </main>
   );
 }
+// Real-time news data configuration
